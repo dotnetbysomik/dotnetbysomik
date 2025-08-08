@@ -21,7 +21,7 @@ With experience across **.NET Core, React, Python, DevOps, and cloud platforms**
 
 ## 🧠 Key Highlights
 
-- ✅ Full-stack development with .NET Core, C#, React.js  
+- ✅ Full-stack development with .NET Core/.NET, C#, React.js  
 - ✅ REST API design, database architecture, system integration  
 - ✅ AI & ML: Neural networks, data mining, feature engineering  
 - ✅ Cloud: Azure, AWS (S3, EC2, Batch)  
