@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👩‍💻 Full-stack Software Engineer (Senior Level)
 
-<!--
-**dotnetbysomik/dotnetbysomik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 .NET / C# / Python / React / Azure  
+🔹 Full-stack Development | AI | Cloud | DevOps  
+🔹 Latvian 🇱🇻 | Russian 🇷🇺 | English 🇬🇧  
+✉️ Email: dotnetbysomik@gmail.com 
+🔗 [LinkedIn](https://bit.ly/contactsomik)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Full-stack Software Engineer specializing in **C#**, **.NET**, **Azure**, **JavaScript**, **TypeScript**, **React**, **SQL**.
+
+I thrive on building real-world solutions that solve complex problems and deliver real value. My work spans backend and frontend development, with a focus on clean architecture, performance, and usability.
+
+🔹 Experienced in developing AI-powered systems for enterprise clients  
+🔹 Skilled in integrating multiple APIs into cohesive, scalable solutions  
+🔹 Creative thinker with a strong foundation in algorithms and system design  
+
+I take pride in combining **professionalism** with **creativity**, crafting applications that are robust, efficient, and user-centered.
+With experience across **.NET Core, React, Python, DevOps, and cloud platforms**, I enjoy solving complex engineering challenges — from data-driven applications to scalable APIs and automation tools.
+
+## 🧠 Key Highlights
+
+- ✅ Full-stack development with .NET Core, C#, React.js  
+- ✅ REST API design, database architecture, system integration  
+- ✅ AI & ML: Neural networks, data mining, feature engineering  
+- ✅ Cloud: Azure, AWS (S3, EC2, Batch)  
+- ✅ Dockerized microservices & CI/CD pipelines
+
+---
+
+## 💡 About Me
+
+- 🔬 Currently diving deeper into Machine Learning and full-stack development  
+- 🧠 I enjoy exploring new algorithms and turning ideas into working products  
+- 🐾 Animal lover & hobbyist illustrator — creativity fuels my problem-solving  
+- 🌍 Based in Latvia, open to **remote** and **freelance** opportunities  
+
+---
+
+## 🤝 Let’s Connect!
+
+Feel free to reach out if you'd like to collaborate on:
+- AI/ML solutions
+- Backend API architecture
+- Fullstack web development
+- Freelance roles
+
+📫 DM me here on GitHub or connect via [LinkedIn](https://bit.ly/contactsomik).
