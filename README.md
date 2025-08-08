@@ -8,7 +8,7 @@
 
 ---
 
-I'm a passionate Full-stack Software Engineer specializing in **C#**, **.NET**, **Azure**, **JavaScript**, **TypeScript**, **React**, **SQL**.
+I'm a passionate Full-stack Software Engineer specializing in **C#**, **ASP.NET**, **Azure**, **JavaScript**, **TypeScript**, **React**, **SQL**.
 
 I thrive on building real-world solutions that solve complex problems and deliver real value. My work spans backend and frontend development, with a focus on clean architecture, performance, and usability.
 
@@ -17,7 +17,7 @@ I thrive on building real-world solutions that solve complex problems and delive
 🔹 Creative thinker with a strong foundation in algorithms and system design  
 
 I take pride in combining **professionalism** with **creativity**, crafting applications that are robust, efficient, and user-centered.
-With experience across **.NET Core, React, Python, DevOps, and cloud platforms**, I enjoy solving complex engineering challenges — from data-driven applications to scalable APIs and automation tools.
+With experience across **ASP.NET, React, Python, DevOps, and cloud platforms**, I enjoy solving complex engineering challenges — from data-driven applications to scalable APIs and automation tools.
 
 ## 🧠 Key Highlights
 
