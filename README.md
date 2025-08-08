@@ -48,3 +48,6 @@ Feel free to reach out if you'd like to collaborate on:
 
 📫 DM me here on GitHub or connect via [LinkedIn](https://bit.ly/contactsomik).
 ☕ Like my work? [Buy me a coffee](https://ko-fi.com/dotnetbysomik)
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dotnetbysomik)
+
