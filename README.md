@@ -1,8 +1,7 @@
-# 👩‍💻 Full-stack Software Engineer (Senior Level)
+# 👩‍💻 Full-stack Software Engineer
 
 🔹 .NET / C# / Python / React / Azure  
-🔹 Full-stack Development | AI | Cloud | DevOps  
-🔹 Latvian 🇱🇻 | Russian 🇷🇺 | English 🇬🇧  
+🔹 Full-stack Development | AI | Cloud | DevOps
 ✉️ Email: dotnetbysomik@gmail.com 
 🔗 [LinkedIn](https://bit.ly/contactsomik)
 
@@ -34,17 +33,12 @@ With experience across **ASP.NET, React, Python, DevOps, and cloud platforms**, 
 - 🔬 Currently diving deeper into Machine Learning and full-stack development  
 - 🧠 I enjoy exploring new algorithms and turning ideas into working products  
 - 🐾 Animal lover & hobbyist illustrator — creativity fuels my problem-solving  
-- 🌍 Based in Latvia, open to **remote** and **freelance** opportunities  
 
 ---
 
 ## 🤝 Let’s Connect!
 
-Feel free to reach out if you'd like to collaborate on:
-- AI/ML solutions
-- Backend API architecture
-- Fullstack web development
-- Freelance roles
+Feel free to reach out if you'd like to collaborate.
 
 📫 DM me here on GitHub or connect via [LinkedIn](https://bit.ly/contactsomik).
 ☕ Like my work? [Buy me a coffee](https://ko-fi.com/dotnetbysomik)
