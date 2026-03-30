@@ -21,7 +21,6 @@ I build backend systems and APIs that hold up in production.
 ## A bit more
 - MSc in Computer Science, Riga Technical University
 - Animal lover & hobbyist illustrator 🐾🎨
-- Open to freelance backend & full-stack contracts
  
 ---
  
