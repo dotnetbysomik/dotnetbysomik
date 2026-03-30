@@ -1,5 +1,6 @@
 # 👩‍💻 Senior Full-Stack Engineer
 **.NET · C# · Python · React · Azure · AWS**
+
 ✉️ dotnetbysomik@gmail.com · [LinkedIn](https://bit.ly/contactsomik)
  
 ---
