@@ -18,12 +18,6 @@ I build backend systems and APIs that hold up in production.
  
 ---
  
-## A bit more
-- MSc in Computer Science, Riga Technical University
-- Animal lover & hobbyist illustrator 🐾🎨
- 
----
- 
 ## 🤝 Let's connect
 [LinkedIn](https://bit.ly/contactsomik) · dotnetbysomik@gmail.com
  
